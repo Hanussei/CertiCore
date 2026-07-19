@@ -9,6 +9,9 @@ export default defineConfig({
       server: {
         entry: "src/server.ts",
       },
+      nitro: {
+        preset: "netlify",
+      },
     }),
     react(),
     tailwindcss(),
