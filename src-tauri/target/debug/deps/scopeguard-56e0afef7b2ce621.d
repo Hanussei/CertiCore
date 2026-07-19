@@ -1,0 +1,7 @@
+D:\Smart Form Builder\src-tauri\target\debug\deps\scopeguard-56e0afef7b2ce621.d: C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scopeguard-1.2.0\src\lib.rs
+
+D:\Smart Form Builder\src-tauri\target\debug\deps\libscopeguard-56e0afef7b2ce621.rlib: C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scopeguard-1.2.0\src\lib.rs
+
+D:\Smart Form Builder\src-tauri\target\debug\deps\libscopeguard-56e0afef7b2ce621.rmeta: C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scopeguard-1.2.0\src\lib.rs
+
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\scopeguard-1.2.0\src\lib.rs:

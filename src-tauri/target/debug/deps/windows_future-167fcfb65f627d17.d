@@ -1,0 +1,10 @@
+D:\Smart Form Builder\src-tauri\target\debug\deps\windows_future-167fcfb65f627d17.d: C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings_impl.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\get.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\waiter.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\../readme.md
+
+D:\Smart Form Builder\src-tauri\target\debug\deps\libwindows_future-167fcfb65f627d17.rmeta: C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings_impl.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\get.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\waiter.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\../readme.md
+
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\lib.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\bindings_impl.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\get.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\waiter.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\windows-future-0.2.1\src\../readme.md:

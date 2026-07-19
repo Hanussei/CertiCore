@@ -1,0 +1,11 @@
+D:\Smart Form Builder\src-tauri\target\debug\deps\cargo_metadata-f0fda78e726d3b09.d: C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\dependency.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\diagnostic.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\errors.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\messages.rs
+
+D:\Smart Form Builder\src-tauri\target\debug\deps\libcargo_metadata-f0fda78e726d3b09.rlib: C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\dependency.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\diagnostic.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\errors.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\messages.rs
+
+D:\Smart Form Builder\src-tauri\target\debug\deps\libcargo_metadata-f0fda78e726d3b09.rmeta: C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\lib.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\dependency.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\diagnostic.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\errors.rs C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\messages.rs
+
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\lib.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\dependency.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\diagnostic.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\errors.rs:
+C:\Users\user\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\cargo_metadata-0.19.2\src\messages.rs:

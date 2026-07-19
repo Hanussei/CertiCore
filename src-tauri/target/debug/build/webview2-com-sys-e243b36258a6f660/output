@@ -1,0 +1,2 @@
+cargo:rustc-link-search=native=D:\Smart Form Builder\src-tauri\target\debug\build\webview2-com-sys-e243b36258a6f660\out\x64
+cargo:rustc-link-lib=advapi32
